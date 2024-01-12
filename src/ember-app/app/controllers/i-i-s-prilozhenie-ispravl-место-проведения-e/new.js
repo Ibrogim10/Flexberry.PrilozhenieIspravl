@@ -1,0 +1,4 @@
+import IISPrilozhenieIspravlМестоПроведенияEController from '../i-i-s-prilozhenie-ispravl-место-проведения-e';
+
+var IISPrilozhenieIspravlМестоПроведенияENewController = IISPrilozhenieIspravlМестоПроведенияEController;
+export default IISPrilozhenieIspravlМестоПроведенияENewController;

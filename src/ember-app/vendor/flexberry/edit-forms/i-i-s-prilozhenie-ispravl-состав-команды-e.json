@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ГруппыВозраст",
+      "projection": "ГруппыВозрастL",
+      "detailModelName": null
+    },
+    {
+      "master": "сотрудники",
+      "displayAttributeName": "фИО",
+      "required": true,
+      "relationName": "ТЧСоставаТренер.Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": "i-i-s-prilozhenie-ispravl-т-ч-состава-тренер"
+    },
+    {
+      "master": "спортсмены",
+      "displayAttributeName": "фИО",
+      "required": true,
+      "relationName": "ТЧСоставСпорт.Спортсмены",
+      "projection": "СпортсменыL",
+      "detailModelName": "i-i-s-prilozhenie-ispravl-т-ч-состав-спорт"
+    }
+  ],
+  "external": false,
+  "caption": "Состав команды",
+  "name": "IISPrilozhenieIspravlСоставКомандыE",
+  "className": "СоставКомандыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-состав-команды",
+      "modelProjection": "СоставКомандыE"
+    }
+  ]
+}

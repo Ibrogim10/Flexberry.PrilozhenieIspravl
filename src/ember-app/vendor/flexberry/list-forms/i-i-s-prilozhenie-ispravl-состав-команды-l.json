@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-ispravl-состав-команды-e",
+  "editForm": "i-i-s-prilozhenie-ispravl-состав-команды-e",
+  "external": false,
+  "caption": "Состав команды",
+  "name": "IISPrilozhenieIspravlСоставКомандыL",
+  "className": "СоставКомандыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-состав-команды",
+      "modelProjection": "СоставКомандыL"
+    }
+  ]
+}

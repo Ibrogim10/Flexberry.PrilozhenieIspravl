@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-ispravl-сотрудники-e",
+  "editForm": "i-i-s-prilozhenie-ispravl-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISPrilozhenieIspravlСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

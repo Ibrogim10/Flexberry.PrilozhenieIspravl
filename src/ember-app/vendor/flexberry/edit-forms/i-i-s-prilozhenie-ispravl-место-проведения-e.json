@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Место проведения",
+  "name": "IISPrilozhenieIspravlМестоПроведенияE",
+  "className": "МестоПроведенияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-место-проведения",
+      "modelProjection": "МестоПроведенияE"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    },
+    {
+      "master": "местоПроведения",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "ТЧГрафика.МестоПроведения",
+      "projection": "МестоПроведенияL",
+      "detailModelName": "i-i-s-prilozhenie-ispravl-т-ч-графика"
+    },
+    {
+      "master": "группыВозраст",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "ТЧГрафика.ГруппыВозраст",
+      "projection": "ГруппыВозрастL",
+      "detailModelName": "i-i-s-prilozhenie-ispravl-т-ч-графика"
+    }
+  ],
+  "external": false,
+  "caption": "График матчей",
+  "name": "IISPrilozhenieIspravlГрафикМатчейE",
+  "className": "ГрафикМатчейE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-график-матчей",
+      "modelProjection": "ГрафикМатчейE"
+    }
+  ]
+}

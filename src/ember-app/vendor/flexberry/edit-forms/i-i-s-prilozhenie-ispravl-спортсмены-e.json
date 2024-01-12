@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Спортсмены",
+  "name": "IISPrilozhenieIspravlСпортсменыE",
+  "className": "СпортсменыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-спортсмены",
+      "modelProjection": "СпортсменыE"
+    }
+  ]
+}

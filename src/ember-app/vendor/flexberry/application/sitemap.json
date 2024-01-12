@@ -1,0 +1,81 @@
+﻿{
+  "applicationCaption": "Prilozhenie ispravl",
+  "applicationTitle": "Prilozhenie ispravl",
+  "items": [
+    {
+      "link": null,
+      "menuName": "сотрудники",
+      "caption": "Сотрудники",
+      "title": "Сотрудники",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-ispravl-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "спортсмены",
+      "caption": "Спортсмены",
+      "title": "Спортсмены",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-ispravl-состав-команды-l",
+          "menuName": null,
+          "caption": "Состав команды",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-ispravl-спортсмены-l",
+          "menuName": null,
+          "caption": "Спортсмены",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-ispravl-группы-возраст-l",
+          "menuName": null,
+          "caption": "Группы возраст",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "графики",
+      "caption": "Графики",
+      "title": "Графики",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-ispravl-график-матчей-l",
+          "menuName": null,
+          "caption": "График матчей",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "место-проведения",
+      "caption": "Место проведения",
+      "title": "Место проведения",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-ispravl-место-проведения-l",
+          "menuName": null,
+          "caption": "Место проведения",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

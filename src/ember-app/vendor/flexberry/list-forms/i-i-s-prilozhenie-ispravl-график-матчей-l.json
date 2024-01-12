@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-prilozhenie-ispravl-график-матчей-e",
+  "editForm": "i-i-s-prilozhenie-ispravl-график-матчей-e",
+  "external": false,
+  "caption": "График матчей",
+  "name": "IISPrilozhenieIspravlГрафикМатчейL",
+  "className": "ГрафикМатчейL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-prilozhenie-ispravl-график-матчей",
+      "modelProjection": "ГрафикМатчейL"
+    }
+  ]
+}
